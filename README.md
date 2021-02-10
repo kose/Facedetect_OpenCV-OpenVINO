@@ -7,8 +7,8 @@ Face Detection sample using Python and C++.
 ## OpenVINO Pre-Trained Model
 
 - Document: [face-detection-adas-0001](https://docs.openvinotoolkit.org/2018_R5/_docs_Transportation_object_detection_face_pruned_mobilenet_reduced_ssd_shared_weights_caffe_desc_face_detection_adas_0001.html)
-- [face-detection-adas-0001.bin](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2021.2/models_bin/1/face-detection-adas-0001/FP16/face-detection-adas-0001.xml)
-- [face-detection-adas-0001.bin](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2021.2/models_bin/1/face-detection-adas-0001/FP16/face-detection-adas-0001.bin)
+- [face-detection-adas-0001.xml](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2021.2/models_bin/1/face-detection-adas-0001/FP16/)
+- [face-detection-adas-0001.bin](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2021.2/models_bin/1/face-detection-adas-0001/FP16/)
 
 
 ## Reference
